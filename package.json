@@ -6,7 +6,6 @@
   "types": "index.d.ts",
   "scripts": {
     "build": "babel src -d dist",
-    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
